@@ -8,6 +8,7 @@
         "tools"
     ],
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Henric Söderlind",
@@ -48,6 +49,5 @@
             "pestphp/pest-plugin": true
         }
     },
-    "minimum-stability": "dev",
     "prefer-stable": true
 }
